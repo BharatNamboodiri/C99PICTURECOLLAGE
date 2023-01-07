@@ -1,0 +1,55 @@
+#logo
+{
+    border-radius: 100px;
+    margin: 10px;
+}
+.header
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+#maker
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: antiquewhite;
+    color:brown;
+    
+}
+body
+{
+    background-color: darkolivegreen;
+    color: blanchedalmond;
+}
+#pressstart
+{
+color: red;
+font-size: medium;
+font-weight: 900;
+}
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border-radius: 20%;
+}
+.imagetags
+{
+    width: 30%;
+    border-radius: 20%;
+    padding: 10px;
+    box-shadow: 0 6px 8px rgba(2, 2, 2, 0.2);
+}
+.imagetags:hover
+{
+    border-radius: 140px;
+    width: 40%;
+    height: 90%;
+}
+#resultShow
+{
+    padding: 10px;
+    background-color: rgb(rgb(41, 152, 54)rgb(0, 0, 0)een, blue);
+}
